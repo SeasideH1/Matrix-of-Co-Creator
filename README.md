@@ -2,7 +2,7 @@
 
 Windows Minecraft 启动器，提供游戏实例与整合包管理、下载更新以及账号管理界面。
 
-**[下载 alpha.36 · Windows x64 安装包](https://github.com/SeasideH1/MC-Honer-Launcher/releases/download/v0.1.0-alpha.36/Matrix-of-Co-Creator-0.1.0-alpha.36-x64-Setup.exe)**
+**[下载 alpha.36 · Windows x64 安装包](https://github.com/SeasideH1/Matrix-of-Co-Creator/releases/download/v0.1.0-alpha.36/Matrix-of-Co-Creator-0.1.0-alpha.36-x64-Setup.exe)**
 
 本仓库提供产品说明与安装包。安装包名称：`Matrix-of-Co-Creator-0.1.0-alpha.36-x64-Setup.exe`。
 
@@ -65,7 +65,7 @@ Windows Minecraft 启动器，提供游戏实例与整合包管理、下载更�
 
 Matrix of Co-Creator is a Windows Minecraft launcher with game instance and modpack management, downloads, updates and account controls.
 
-**[Download alpha.36 for Windows x64](https://github.com/SeasideH1/MC-Honer-Launcher/releases/download/v0.1.0-alpha.36/Matrix-of-Co-Creator-0.1.0-alpha.36-x64-Setup.exe)**
+**[Download alpha.36 for Windows x64](https://github.com/SeasideH1/Matrix-of-Co-Creator/releases/download/v0.1.0-alpha.36/Matrix-of-Co-Creator-0.1.0-alpha.36-x64-Setup.exe)**
 
 - Requires Windows x64, a network connection and the rights to use the game and selected content. Actual launches require a Microsoft account with Minecraft Java Edition entitlement and a compatible Java runtime for the chosen game version.
 - Back up important data before installation. Migration retains the old installation and data snapshot. Rollback uses that snapshot; newer data is not merged back automatically. Handle personal data in retained copies separately.
